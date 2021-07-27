@@ -1,4 +1,4 @@
-Assignments
+Ansible Assignments
 
 1. Write a ansible ad-hoc to retrieve the current date and time from web servers.
 2. Create a group by name “db” and add remote node to the group.Verify connectivity with the group.
